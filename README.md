@@ -1,13 +1,13 @@
 ## Hi, I'm Seyi
 
-I'm a Mechatronics Engineering student and builder working with Python, automation tools, and AI, with a focus on turning ideas into websites, systems, and tools people can actually use.
+I'm a Mechatronics Engineering student and builder working with Python, automation tools, and AI, with a focus on turning ideas into websites, systems, and tools people can actually use. I'm also a sucker for Global Ambassadorships.
 
-### What I build
+### What I Do
 
-- Design and build high-converting websites that match a brand's identity using Lovable and Supabase
-- Automate workflows and lead generation with n8n and Python
+- Design and build high-converting websites that match a brand's identity.
+- Automate workflows and create lead generation systems with n8n and Python.
 - Build AI-powered tools and multi-agent systems on top of LLM APIs
-- Train machine learning models to predict real-world outcomes
+- Train machine learning models to predict real-world outcomes and solve problems in different sectors such as health amongst others.
 
 ### Featured Projects
 
@@ -20,6 +20,7 @@ I'm a Mechatronics Engineering student and builder working with Python, automati
 ### Beyond Code
 
 - Founder, Waste Worth Millions (non-profit focused on plastic waste education)
-- SDG 12 Ambassador
+- Founder, KingdomBuilds (Web Design Agency)
+- Summa San KING GLOBAL Ambassador and SDG 12 Ambassador and Advocate.
 
-**Reach me Email:** [banksoluwaseyi@gmail.com](mailto:banksoluwaseyi@gmail.com)
+**Shoot me a message here, don't be shy:** [banksoluwaseyi@gmail.com](mailto:banksoluwaseyi@gmail.com)
