@@ -10,14 +10,20 @@
 
 ### 🚀 About Me
 
-Mechatronics Engineering student who builds things people actually use: AI agents, automations, ML models and high-converting websites. Founder of KingdomBuilds (web design agency) and Waste Worth Millions (plastic-waste education non-profit).
+Just a chill guy with a suspicious number of commits. 😅
 
-🔭 &nbsp;I'm currently working on **PayPal Guardian, an AI agent that verifies payments and scores counterparty risk**  
-🌱 &nbsp;I'm currently learning **AI agentic systems, OCI systems and more**  
-👯 &nbsp;I'm looking to collaborate on **AI tools for health, sports data and sustainability**  
-💬 &nbsp;Ask me about **Python, n8n automations, multi-agent LLM systems, ML**  
-😄 &nbsp;Pronouns: **he/him/his**  
-⚡ &nbsp;Fun fact: **I'm a sucker for Global Ambassadorships (Summa San KING Global + SDG 12 Ambassador)**
+I'm **Daniel Oluwaseyi Bankole**, but everyone calls me Seyi. I study Mechatronics Engineering at Bells University with my eyes on robotics, where hardware, code and AI finally meet. The rest of my time goes into turning rough ideas into things real people can use. Give me a deadline and an empty repo and I'm happy.
+
+- ⚽ Built **VendorIQ** solo for the **Microsoft x Premier League** *Inside the Game* hackathon: 7 AI agents that merge Opta, StatsBomb and Wyscout football feeds into one format, backed by 420 passing tests.
+- 💸 Now building **PayPal Guardian** for PayPal's AI hackathon. It answers *"did they really pay me?"* by checking the claim against the real PayPal order.
+- 🏆 Finalist, **Microsoft x Lenovo x Intel AI Innovation Challenge** (2025).
+- 🏢 I run **KingdomBuilds**, a web design agency, and founded **Waste Worth Millions**, a non-profit teaching people about plastic waste.
+- 🌍 Self-confessed sucker for global ambassadorships: **Summa San KING Global Ambassador** and **SDG 12 Ambassador**.
+
+🌱 &nbsp;Currently learning **AI agentic systems, OCI systems and more**  
+💬 &nbsp;Ask me about **multi-agent pipelines, n8n automations, or making a messy dataset behave**  
+👯 &nbsp;Open to **internships and collabs in robotics, and AI for health, sport and sustainability**  
+😄 &nbsp;Pronouns: **he/him/his**
 
 ### 📌 Featured Projects
 
@@ -60,7 +66,7 @@ Mechatronics Engineering student who builds things people actually use: AI agent
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SeyiBuilds&show_icons=true&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=SeyiBuilds&theme=tokyonight&hide_border=true&background=00000000&ring=1f9c8f&fire=1f9c8f&currStreakLabel=1f9c8f&sideLabels=1f9c8f&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="contribution streak" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SeyiBuilds&layout=compact&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
