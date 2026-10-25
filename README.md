@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=850&height=44&lines=Mechatronics%20engineer%20building%20AI%20agents%20%26%20automations;Turning%20ideas%20into%20tools%20people%20actually%20use" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=850&height=44&lines=Quiet%20in%20the%20room%2C%20loud%20in%20the%20terminal;Hardware%20hands%2C%20software%20brain;One%20more%20feature%2C%20then%20I%27ll%20sleep;Turns%20%27what%20if%27%20into%20%27it%20works%27;My%20code%20works.%20Please%20don%27t%20ask%20me%20how;Calm%20face%2C%2037%20tabs%20open;Don%27t%20know%20it%20yet%3F%20Give%20me%20a%20week;Ctrl%2BS%20is%20my%20love%20language;Probably%20building%20something%20right%20now" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
